@@ -2,6 +2,7 @@
 #include <cstdio>
 
 /*
+basado en: http://d1hyf4ir1gqw6c.cloudfront.net//wp-content/uploads/graph_col.png
 verifica si un vertice v se puede pintar de un color c
 V: #de vertices
 v: vertice actual
