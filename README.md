@@ -2,7 +2,7 @@
 repositorio de entrenamiento de algoritmos y tecnicas.
 
 ## Como subir una carpeta
-([lang]/[tema])_[nombre carpeta] (Ej: (C++/BB)_mColoring)<br>
+[nombre carpeta]<br>
 &boxur;> src<br>
 &boxur;> test<br>
 &boxur;> include<br>
