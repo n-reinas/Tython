@@ -8,7 +8,7 @@ repositorio de entrenamiento de algoritmos y tecnicas.
 &boxur;> include<br>
 <br>
 <b>src</b>: codigo fuente.<br>
-<b>test</b>: ficheros de prueba.<br>
+<b>tests</b>: ficheros de prueba.<br>
 <b>include</b>: librerias externas (en caso de que se necesiten).<br>
 
 
