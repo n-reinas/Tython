@@ -1,5 +1,6 @@
 ## Descripcion
-Colorea un grafo con m colores de tal manera que los vertces adyacentes no sean del mismo color.
+Colorea un grafo con m colores de tal manera que los vertces adyacentes no sean del mismo color.<br>
+![alt tag](http://d1hyf4ir1gqw6c.cloudfront.net//wp-content/uploads/graph_col.png)
 
 ## Bibliografia
 <ul>
