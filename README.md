@@ -21,6 +21,10 @@ repositorio de entrenamiento de algoritmos y tecnicas.
   </ul>
 </ul>
 
+## Comando para probar los tests
+`diff -u --ignore-all-space [fichero que saca el programa]  [fichero de prueba]`<br>
+Ej: `diff -u --ignore-all-space <(./a.out < tf_coloring.txt)  af_coloring.txt`
+
 ## Bibliografia & Recursos
 <ul>
 	<li>Libro<br>https://github.com/waydecs/books/blob/master/Algorithms%20-%20Sanjoy%20Dasgupta,%20Christos%20H.%20Papadimitriou,%20and%20Umesh%20V.%20Vazirani.pdf</li>
