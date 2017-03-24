@@ -17,7 +17,13 @@ int knapSack(int obj, int *val, int *peso, int pesoMax, int n,  int valAcum, int
 				    knapSack(obj+1, val, peso, pesoMax, n, valAcum, pesoAcum));
 }
 
-
+/*params
+ * t: numero de test cases
+ * n: numero de objetos
+ * pesoMax: peso Maximo que aguanta el saco
+ * val: vector de valores de cada objeto
+ * peso: vector de peso de cada objeto
+ */
 int main()
 {
 	int n, pesoMax, t;
