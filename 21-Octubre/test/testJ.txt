@@ -1,0 +1,14 @@
+E
+AB
+CE
+DB
+
+B
+AB
+
+C
+
+F
+AB
+BD
+EF
